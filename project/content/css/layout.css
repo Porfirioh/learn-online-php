@@ -1,0 +1,35 @@
+h1 {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;	 
+}
+
+h3.sub {
+	text-align:center;
+    padding:5px;
+}
+
+h2.sub {
+	background-color:#eeeeee;
+    text-align: center;
+    color: #8e388e;
+	padding:5px;
+}
+
+div {
+    background-color:#eeeeee;
+    padding:5px;	      
+}
+
+img {
+    padding:10px;	 	 
+}
+
+footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px;	 	 
+}
